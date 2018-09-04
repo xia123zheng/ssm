@@ -1,0 +1,8 @@
+spring-mybatis.xml:
+	定义数据库数据源、事务等
+
+spring-mvc.xml：
+	定义开启注解、扫描宝、视图、上传文件等
+
+例子：
+https://blog.csdn.net/u010323779/article/details/50681917
